@@ -1,0 +1,3 @@
+Hold Crouch 
+wall climb
+make shift double acceleration or something

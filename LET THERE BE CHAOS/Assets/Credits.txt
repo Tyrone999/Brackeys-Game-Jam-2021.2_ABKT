@@ -1,0 +1,21 @@
+Credits:
+
+	Thanks to:
+
+		Devs In Project:
+
+			Boipelo "White Rabbit Rambo" - 3D Artist
+			Andile "ThanosKid" - 2D Artist
+			Kabo "Meekro Whave" - Audio Artist/ Engineer
+			Tyrone "TheGamer9B (Or Kaptin AFK)" Unity Developer and Programmer
+
+	Special Thanks to:
+		
+
+		Andre Hamman: For helping with a LOT of the bug fixing and debugging
+
+		Slug Glove: For helping learn new movement abilitys in unity
+			
+			Twitter : https://twitter.com/slugglove
+			Instagram : https://www.instagram.com/slugglove/
+			Youtube : https://www.youtube.com/channel/UCwATqjbaGS0lD9Xg0SKpXaw
